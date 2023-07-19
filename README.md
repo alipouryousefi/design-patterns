@@ -24,9 +24,10 @@ git clone git@github.com:alipouryousefi/design-patterns.git<br/>
 After cloning the repository, navigate to the respective design pattern folder to explore the code examples and explanations.<br/>
 
 Design Patterns Covered<br/>
+
 Singleton Pattern<br/>
 The Singleton pattern ensures that a class has only one instance and provides a global point of access to that instance. It is commonly used for managing shared resources.
-<br/>
+
 Factory Pattern<br/>
 The Factory pattern is a creational pattern that provides an interface for creating objects without specifying their concrete classes. It allows flexibility in creating objects based on the requirements.<br/>
 
