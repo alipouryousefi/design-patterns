@@ -1,7 +1,7 @@
-Design Patterns in JavaScript<br/>
-This repository contains examples and explanations of various design patterns implemented in JavaScript. Design patterns are proven solutions to common software design problems. Understanding and applying design patterns can lead to more maintainable, scalable, and reusable code.<br/>
+Design Patterns in JavaScript and TypeScript<br/>
+This repository contains examples and explanations of various design patterns implemented in JavaScript and TypeScript. Design patterns are proven solutions to common software design problems. Understanding and applying design patterns can lead to more maintainable, scalable, and reusable code.<br/>
 
-In this repository, you'll find implementations of the following design patterns in JavaScript:<br/>
+In this repository, you'll find implementations of the following design patterns in JavaScript and TypeScript:<br/>
 <br/>
 Singleton Pattern<br/>
 Factory Pattern<br/>
@@ -40,7 +40,7 @@ The Strategy pattern allows you to define a family of algorithms, encapsulate ea
 
 
 Examples<br/>
-Each design pattern folder contains a README.md file that provides an overview of the pattern, its use cases, and its implementation in JavaScript. The examples folder within each pattern folder contains JavaScript code examples, along with UML diagrams for better visualization.<br/>
+Each design pattern folder contains a README.md file that provides an overview of the pattern, its use cases, and its implementation in JavaScript and TypeScript. The examples folder within each pattern folder contains JavaScript and TypeScript code examples, along with UML diagrams for better visualization.<br/>
 
 Contributing<br/>
 Contributions to this repository are welcome! If you have improvements, additional design pattern examples, or corrections, feel free to submit a pull request. Please ensure that your code adheres to the repository's coding standards.<br/>
