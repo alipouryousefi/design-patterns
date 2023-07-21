@@ -42,3 +42,5 @@ Each design pattern folder contains a README.md file that provides an overview o
 # Contributing<br/>
 Contributions to this repository are welcome! If you have improvements, additional design pattern examples, or corrections, feel free to submit a pull request. Please ensure that your code adheres to the repository's coding standards.<br/>
 
+# License<br/>
+This project is licensed under the MIT License - see the LICENSE file for details.
