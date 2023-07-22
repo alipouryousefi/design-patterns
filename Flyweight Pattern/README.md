@@ -1,0 +1,7 @@
+# Flyweight Pattern
+
+The Flyweight Pattern is a structural design pattern that is used to minimize memory usage by sharing data among multiple objects. It is particularly useful when dealing with large numbers of similar objects that have redundant data. Instead of each object storing its own data, the Flyweight Pattern allows multiple objects to share the same data, reducing memory consumption and improving performance.
+
+The key idea behind the Flyweight Pattern is to split the objects into intrinsic and extrinsic states. The intrinsic state is the shared data that can be shared among multiple objects, and the extrinsic state is the unique data that varies for each object. By separating the intrinsic state from the extrinsic state, we can minimize memory usage.
+
+In both implementations, we have the CoffeeFlavorFactory class that acts as the Flyweight Factory. It maintains a dictionary of CoffeeFlavor instances, and it returns the existing instance if it exists, or creates a new one if it doesn't. The CoffeeFlavor class represents the Flyweight, which holds the intrinsic state (the flavor name). The CoffeeShop class is the client that takes orders for coffee flavors and serves them. The client interacts with the Flyweight Factory to get the shared CoffeeFlavor instances, reducing memory usage by sharing the intrinsic state among multiple orders.
