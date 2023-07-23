@@ -1,3 +1,6 @@
+# Proxy Pattern
+
+
 The Proxy Pattern is a structural design pattern that allows you to provide a surrogate or placeholder for another object. It acts as an intermediary or wrapper for the target object, controlling access to it and allowing additional behavior to be added without modifying the target object's code. The Proxy Pattern is particularly useful for scenarios like lazy loading, access control, caching, logging, and more.
 
 Example:

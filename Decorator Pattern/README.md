@@ -1,3 +1,5 @@
+# Decorator Pattern
+
 The Decorator Pattern is a structural design pattern that allows behavior to be added to individual objects without affecting the behavior of other objects from the same class. It is used to extend or enhance the functionality of an object dynamically at runtime. The pattern promotes the principle of open-closed, meaning classes should be open for extension but closed for modification.
 
 In the example, we implemented the Decorator Pattern for a coffee ordering system. The Coffee interface defines the cost method, and BasicCoffee is the concrete implementation of this interface.
